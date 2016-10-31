@@ -4,9 +4,12 @@ A list of delightful Tanda Ping challenges in different flavours. (Pls no Node.J
 
 ## Bash
   - [Burger Flavour](https://github.com/lewisjb/pinger-burger)
- 
+
 ## C
   - [Cat Poop Flavour](https://github.com/byronmejia/Pingers)
- 
+
+## Elixir
+  - [Ecstasy Flavour](https://github.com/angusturner/pings-elixir)
+
 ## Java
   - [Coffee Flavour](https://github.com/byronmejia/Pingers-Coffee-Flavour)
