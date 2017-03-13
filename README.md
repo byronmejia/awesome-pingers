@@ -11,6 +11,9 @@ A list of delightful Tanda Ping challenges in different flavours. (Pls no Node.J
 ## Elixir
   - [Ecstasy Flavour](https://github.com/angusturner/pings-elixir)
   - [Blue Ice Flavour](https://github.com/CallumJHays/tanda_pings_2016)
+  
+## Haskell
+  - [Weed Flavour](https://github.com/kendricktan/pingers-haskell)
 
 ## Java
   - [Coffee Flavour](https://github.com/byronmejia/Pingers-Coffee-Flavour)
