@@ -17,3 +17,6 @@ A list of delightful Tanda Ping challenges in different flavours. (Pls no Node.J
 
 ## Java
   - [Coffee Flavour](https://github.com/byronmejia/Pingers-Coffee-Flavour)
+  
+## Go
+  - [Special Flavour](https://github.com/AwolDes/tanda-ping-challenge)
