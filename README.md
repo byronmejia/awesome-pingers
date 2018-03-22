@@ -15,6 +15,9 @@ To send a PR, please give the backend challenge a go, then send a PR.
 ## Elixir
   - [Ecstasy Flavour](https://github.com/angusturner/pings-elixir)
   - [Blue Ice Flavour](https://github.com/CallumJHays/tanda_pings_2016)
+
+## Go
+  - [Special Flavour](https://github.com/AwolDes/tanda-ping-challenge)
   
 ## Haskell
   - [Weed Flavour](https://github.com/kendricktan/pingers-haskell)
@@ -22,8 +25,8 @@ To send a PR, please give the backend challenge a go, then send a PR.
 ## Java
   - [Coffee Flavour](https://github.com/byronmejia/Pingers-Coffee-Flavour)
   
-## Go
-  - [Special Flavour](https://github.com/AwolDes/tanda-ping-challenge)
-  
 ## Node
   - [Sushi Train Flavour](https://github.com/bennetthardwick/tanda-pings-work-sample)
+
+## PHP
+  - [Slim Flavour](https://github.com/MichaelE1/slim-ping)
