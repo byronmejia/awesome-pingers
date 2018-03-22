@@ -20,3 +20,6 @@ A list of delightful Tanda Ping challenges in different flavours.
   
 ## Go
   - [Special Flavour](https://github.com/AwolDes/tanda-ping-challenge)
+  
+## Node
+  - [Sushi Train Flavour](https://github.com/bennetthardwick/tanda-pings-work-sample)
