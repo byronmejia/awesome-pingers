@@ -30,3 +30,6 @@ To send a PR, please give the backend challenge a go, then send a PR.
 
 ## PHP
   - [Slim Flavour](https://github.com/MichaelE1/slim-ping)
+
+## Ruby
+  - [Strawberry Flavour](https://github.com/charltongroves/pings)
