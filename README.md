@@ -33,3 +33,6 @@ To send a PR, please give the backend challenge a go, then send a PR.
 
 ## Ruby
   - [Strawberry Flavour](https://github.com/charltongroves/pings)
+
+## Rust
+  - [Rocket Flavour](https://github.com/ShaunKarran/pings)
