@@ -2,6 +2,10 @@
 
 A list of delightful Tanda Ping challenges in different flavours.
 
+To send a PR, please give the backend challenge a go, then send a PR.
+
+[Tanda Backend Challenge Link](https://github.com/TandaHQ/work-samples)
+
 ## Bash
   - [Burger Flavour](https://github.com/lewisjb/pinger-burger)
 
