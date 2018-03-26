@@ -20,7 +20,7 @@ To send a PR, please give the backend challenge a go, then send a PR.
   - [Special Flavour](https://github.com/AwolDes/tanda-ping-challenge)
   
 ## Haskell
-  - [Weed Flavour](https://github.com/kendricktan/pingers-haskell)
+  - [Weed Flavour](https://github.com/kendricktan/pingershv2)
 
 ## Java
   - [Coffee Flavour](https://github.com/byronmejia/Pingers-Coffee-Flavour)
