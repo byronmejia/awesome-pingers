@@ -18,13 +18,16 @@ To send a PR, please give the backend challenge a go, then send a PR.
 
 ## Go
   - [Special Flavour](https://github.com/AwolDes/tanda-ping-challenge)
-  
+
+## Hack
+  - [Fog Flavour](https://github.com/berndhartzer/tanda-pings-hack)
+
 ## Haskell
   - [Weed Flavour](https://github.com/kendricktan/pingershv2)
 
 ## Java
   - [Coffee Flavour](https://github.com/byronmejia/Pingers-Coffee-Flavour)
-  
+
 ## Node
   - [Sushi Train Flavour](https://github.com/bennetthardwick/tanda-pings-work-sample)
 
